@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\bin\Debug\netcoreapp3.1\SyberryTask.DL.deps.json
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\bin\Debug\netcoreapp3.1\SyberryTask.DL.dll
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.AssemblyInfo.cs
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\bin\Debug\netcoreapp3.1\SyberryTask.DL.pdb
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.dll
+C:\Users\Asus\source\repos\SyberryTask\SyberryTask.DL\obj\Debug\netcoreapp3.1\SyberryTask.DL.pdb
